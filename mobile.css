@@ -78,8 +78,8 @@ and (max-device-width : 320px) {
     }
 
     #myGif {
-    position:relative;
-    display: relative;
+    position: relative;
+    display: block;
     margin: auto;
     text-align: center;
     min-width: 100%; 
